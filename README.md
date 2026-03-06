@@ -1,6 +1,7 @@
 # Rainy Days - E-commerce Concept
 
-![image](https://github.com/aw3stm/html-css-ca-anna-vestman/blob/main/images/RainyDays_Home.png?raw=true)
+<p align="center"><img src="https://github.com/aw3stm/html-css-ca-anna-vestman/blob/main/images/RainyDays_Home.png?raw=true" width="450px">
+</p>
 
 [Live Link to projekt](https://aw3stm.github.io/html-css-ca-anna-vestman/)
 
@@ -20,10 +21,9 @@ Key Objectives:
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
-- [HTML]
-- [CSS]
+- Figma
+- HTML
+- CSS
 
 ## Getting Started
 
@@ -54,4 +54,5 @@ This project was developed as part of a HTML/CSS course at Noroff. While I'm not
 ## Contact
 
 [My LinkedIn page](https://www.linkedin.com/in/anna-westman-179203199)
+
 

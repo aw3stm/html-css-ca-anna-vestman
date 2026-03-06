@@ -2,6 +2,8 @@
 
 ![image](https://github.com/aw3stm/html-css-ca-anna-vestman/blob/main/images/RainyDays_Home.png?raw=true)
 
+[Live Link to projekt](https://aw3stm.github.io/html-css-ca-anna-vestman/)
+
 
 ## Description
 This project was part of the HTML/CSS course at Noroff. Rainy Days is a webshop specializing in outdoor rainwear.
@@ -52,3 +54,4 @@ This project was developed as part of a HTML/CSS course at Noroff. While I'm not
 ## Contact
 
 [My LinkedIn page](https://www.linkedin.com/in/anna-westman-179203199)
+
